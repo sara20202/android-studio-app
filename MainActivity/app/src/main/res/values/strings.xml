@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="yoga_poses">Yoga Poses</string>
+    <string-array name="poses">
+        <item>Angle</item>
+        <item>Big toe</item>
+        <item>Cow Pose</item>
+        <item>Dolphin Pose</item>
+
+    </string-array>
+    <string name="yogascrolltext">What is Yoga?</string>
+    <string name="yogascrolltext2">Yoga
+        is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India.
+        Yoga is one of the six Āstika (orthodox) schools of Hindu philosophical traditions.
+
+There is a broad variety of yoga schools, practices, and goals in Hinduism, Buddhism, and Jainism.
+        The term "Yoga" in the Western world often denotes a modern form of hatha yoga and yoga as exercise, consisting largely of the postures or asanas.
+
+The practice of yoga has been thought to date back to pre-vedic Indian traditions;
+        possibly in the Indus valley civilization around 3000 BCE. Yoga is mentioned in the Rigveda, and also referenced in the Upanishads.
+        Although, yoga most likely developed as a systematic study around the 5th and 6th centuries BCE, in ancient
+        India is ascetic and śramaṇa movements. The chronology of earliest texts describing yoga-practices is unclear, varyingly credited to the Upanishads.
+        The Yoga Sutras of Patanjali date from the 2nd century BCE, and gained prominence in the west in the 20th century after being first introduced by Swami Vivekananda.
+        Hatha yoga texts began to emerge sometime between the 9th and 11th century with origins in tantra.
+
+Yoga gurus from India later introduced yoga to the West,
+        following the success of Swami Vivekananda in the late 19th and early 20th century with his adaptation of yoga tradition, excluding asanas.
+        Outside India, it has developed into a posture-based physical fitness, stress-relief and relaxation technique.
+        Yoga in Indian traditions, however, is more than physical exercise;
+        it has a meditative and spiritual core. One of the six major orthodox schools of Hinduism is also called Yoga, which has its own epistemology, ontology and metaphysics, and is closely related to Hindu Samkhya philosophy.</string>
+    <string name="button1">Yoga Poses</string>
+    <string name="button2">Meditation </string>
+    <string name="button3">Yoga Video</string>
+    <string name="button4">Yoga Info</string>
+</resources>
